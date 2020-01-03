@@ -1,0 +1,17 @@
+header{
+    background-color: rgb(82, 93, 185);
+    color: white;
+    padding: 5px;
+    font-size: 25px;
+}
+div.date{
+    display: flex;
+    justify-content: flex-end;
+}
+div.date input{
+    margin-right: 15px;
+}
+div.date button{
+    margin-right: 15px;
+}
+
